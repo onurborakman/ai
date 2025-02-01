@@ -10,10 +10,6 @@ yarn-error.log*
 # Environment variables (if used)
 .env
 
-# TensorFlow.js model files (optional, if saving model)
-*.bin
-*.json
-
 # OS / IDE-specific files
 .DS_Store
 Thumbs.db
